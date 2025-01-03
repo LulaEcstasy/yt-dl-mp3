@@ -1,10 +1,18 @@
-Download FFMPEG essentials
-extract files to folder ffmpeg:
+Download:
+
+    https://www.gyan.dev/ffmpeg/builds/
+
+ffmpeg-git-essentials.7z
+or 
+ffmpeg-git-full.7z
+
+and extract files to folder ffmpeg:
 
     ffmpeg \ 
     > ffmpeg.exe
     > ffplay.exe
     > ffprobe.exe
+
 
 on list.txt place you links to download
 
