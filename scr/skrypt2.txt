@@ -1,0 +1,1 @@
+./scr/yt-dlp -x --audio-format mp3 --audio-quality 0 --ffmpeg-location ".\ffmpeg\" -a ".\list.txt" -o ".\Downloads\%(title)s-%(id)s.%(ext)s"

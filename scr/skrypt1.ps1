@@ -1,0 +1,1 @@
+get-content ".\scr\skrypt2.txt" | Invoke-Expression
