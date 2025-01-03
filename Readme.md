@@ -1,11 +1,11 @@
 Download FFMPEG essentials
-extract files to folder scr
-scr \ 
-  > ffmpeg.exe
-  > ffplay.exe
-  > ffprobe.exe
+extract files to folder ffmpeg
+  ffmpeg \ 
+    > ffmpeg.exe
+    > ffplay.exe
+    > ffprobe.exe
 
-on list.txt place you links to download.
+on list.txt place you links to download
 
 RUN.bat is starter:
 
