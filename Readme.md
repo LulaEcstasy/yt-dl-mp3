@@ -1,6 +1,7 @@
 Download FFMPEG essentials
-extract files to folder ffmpeg
-  ffmpeg \ 
+extract files to folder ffmpeg:
+
+    ffmpeg \ 
     > ffmpeg.exe
     > ffplay.exe
     > ffprobe.exe
