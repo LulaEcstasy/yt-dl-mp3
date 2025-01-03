@@ -18,7 +18,7 @@ run the all proces.
 skrypt1.ps1 
 easy transition from bat to ps1:
 
-         get-content ".\scr\skrypt2.txt" | Invoke-Expression
+    get-content ".\scr\skrypt2.txt" | Invoke-Expression
 
 skrypt2.txt 
 the whole command to run the yt-dl.exe options so that the links from list.txt are downloaded one by one and converted to mp3:
