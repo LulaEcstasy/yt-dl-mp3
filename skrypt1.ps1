@@ -1,0 +1,1 @@
+get-content "skrypt2.txt" | Invoke-Expression
