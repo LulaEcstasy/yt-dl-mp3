@@ -1,0 +1,1 @@
+./yt-dlp -x --audio-format mp3 --audio-quality 0 --ffmpeg-location "%USERPROFILE%\Desktop\YT-DL" -a "%USERPROFILE%\Desktop\YT-DL\list.txt" -o "%USERPROFILE%\Desktop\YT-DL\Downloads\%(title)s-%(id)s.%(ext)s"
