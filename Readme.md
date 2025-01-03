@@ -13,8 +13,12 @@ and extract files to folder ffmpeg:
     > ffplay.exe
     > ffprobe.exe
 
+paste yt links to list.txt
+open RUN.bat
 
-on list.txt place you links to download
+######################################
+FILES:
+######################################
 
 RUN.bat 
 run the all proces.
