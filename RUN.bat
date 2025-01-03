@@ -1,3 +1,3 @@
 @echo off
-powershell -ExecutionPolicy Bypass -File .\skrypt1.ps1
+powershell -ExecutionPolicy Bypass -File ".\scr\skrypt1.ps1"
 pause
